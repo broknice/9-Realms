@@ -2,6 +2,9 @@
 
 Welcome to **9 Realms**, a text-based turn-based RPG inspired by classic dungeon crawlers and cultivation epics. Players explore dangerous biomes, battle monsters, collect loot, craft items, and build their power.
 
+🎮 [Click here to play 9 Realms in your browser]https://replit.com/@seanladams/9-Realms-Public?v=1#main.py 
+
+
 ---
 
 ## 🎮 Game Features
